@@ -2,7 +2,7 @@
 
 Repo: https://github.com/ucsb-cs156-s24/jpa02-chendashi
 
-Deployed at: https://jpa02-chendashi.dokku-07.cs.ucsb.edu
+Deployed at: http://jpa02-chendashi.dokku-07.cs.ucsb.edu
 
 
 # About this repo
